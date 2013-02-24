@@ -1,0 +1,5 @@
+<% provide(:title, 'Home') %>
+<h1>Bookmarker</h1>
+<p> 
+  Welcome! This is the home page of my Project 1.
+</p>
